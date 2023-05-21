@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#package
+git clone --depth=1 --single-branch https://github.com/kenzok8/small-package.git
+git clone --depth=1 --single-branch https://github.com/kenzok8/small.git
 #Linkease
 git clone --depth=1 --single-branch https://github.com/linkease/istore.git
 git clone --depth=1 --single-branch https://github.com/linkease/nas-packages.git
